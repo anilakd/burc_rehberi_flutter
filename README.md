@@ -15,5 +15,7 @@ Burç Rehberi Flutter Projesi
 ![alt text](https://hizliresim.com/h1NDEh)
 ![alt text](https://hizliresim.com/K9mS2X)
 
+https://hizliresim.com/LzFWid
+
 
 
