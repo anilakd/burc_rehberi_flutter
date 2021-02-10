@@ -10,7 +10,7 @@ Burç Rehberi Flutter Projesi
   SliverAppBar ile güzel bir görünüm elde edilmeye çalışıldı
   SliverToBoxAdapter ile detay bölümünün düzenlemesi gerçekleştirildi.
   
-(https://hizliresim.com/LzFWid)
+(https://i.hizliresim.com/LzFWid.png)
 ![alt text](https://hizliresim.com/SmZNDz)
 ![alt text](https://hizliresim.com/h1NDEh)
 ![alt text](https://hizliresim.com/K9mS2X)
